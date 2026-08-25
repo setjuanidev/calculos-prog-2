@@ -72,5 +72,5 @@ def cuenta_regresiva(entero_positivo):
             return
     cuenta_regresiva(entero_positivo)
 print(f'\n----EJERCICIO 9----\n')
-cuenta_regresiva(4)
+#cuenta_regresiva(4)
 #cuenta_regresiva(9)
